@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yousuf-khan-counsultant.netlify.app/sitemap.xml
